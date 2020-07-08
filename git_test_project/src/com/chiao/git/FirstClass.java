@@ -5,5 +5,7 @@ public class FirstClass {
         System.out.println("aaaaaaaaa");
         System.out.println("bbbbbbbbb");
         System.out.println("ccccccccc");
+        System.out.println("lalalalla");
+        System.out.println("ooooooook");
     }
 }
